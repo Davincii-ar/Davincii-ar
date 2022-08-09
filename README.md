@@ -6,7 +6,7 @@
 - 🎟️ I’m currently learning ... Rust
 - 🤔 I’m looking for help with ... Rust
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/HaArfak)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/hamza-arfak/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finnish
 
