@@ -8,7 +8,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/hamza-arfak/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I am half Finnish.
 
 <!---
 Davincii-ar/Davincii-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
